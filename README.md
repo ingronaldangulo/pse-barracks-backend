@@ -2,5 +2,9 @@
 Backend microservice with React JS
 
 
-###Start the microservice backend
->node index.js
+>## Start the microservice backend
+
+```
+npm install
+node index.js
+```
